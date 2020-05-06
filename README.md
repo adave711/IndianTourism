@@ -1,8 +1,8 @@
 # Indian Tourism
 
-#A responsive website featured different places and city to promote Indian tourisam.
-#Provide places to visite  by  category namely Heritage, Spritual, Natural, Wild life attractions
-#Provide a form to book a tour with services such as hotal rooms, car rental
+A responsive website featured different places and city to promote Indian tourisam.
+Provide places to visite  by  category namely Heritage, Spritual, Natural, Wild life attractions.
+Provide a form to book a tour with services such as hotal rooms, car rental.
 
 ## Installation
 
@@ -23,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 Contributer Team : Bhavsar Mehul, Ami Dave, Krishna Panchal
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+All rights reserved by the team.
