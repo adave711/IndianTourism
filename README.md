@@ -12,8 +12,10 @@ Provide a form to book a tour with services such as hotal rooms, car rental.
 ## Usage
 
 HTML5 , CSS3
-FlexBox
-Animation : slider , Transform , Transition , carousel
+
+#FlexBox
+
+#Animation : slider , Transform , Transition , carousel
 ```
 
 ## Contributing
