@@ -7,7 +7,7 @@ Provide a form to book a tour with services such as hotal rooms, car rental.
 ## Installation
 
 Use the repository link : https://github.com/adave711/IndianTourism.git to download the project in your system.
-#Code is editable with the pre installed softwares such as Visual Studio Code , SublimeText 
+#Code is editable with the pre installed softwares such as Visual Studio Code , SublimeText and Notpad++.
 
 ## Usage
 
@@ -16,7 +16,6 @@ Use the repository link : https://github.com/adave711/IndianTourism.git to downl
 #FlexBox
 
 #Animation : slider , Transform , Transition , carousel
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -24,5 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 Contributer Team : Bhavsar Mehul, Ami Dave, Krishna Panchal
+
 ## License
 All rights reserved by the team.
